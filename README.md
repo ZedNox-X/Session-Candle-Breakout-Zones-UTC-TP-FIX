@@ -301,5 +301,4 @@ alertcondition(sigRBuy,  "RETEST ENTRY – BUY", "Session Breakout: RETEST ENTRY
 alertcondition(sigRSell, "RETEST ENTRY – SELL","Session Breakout: RETEST ENTRY SELL")
 alertcondition(sigBuy or sigSell or sigRBuy or sigRSell, "Any Entry", "Session Breakout: new entry signal")
 alertcondition(isRef,    "New Zone Created",   "Session Breakout: new reference zone created")
-// Updated on 14-09-2026 by Melbin George
-
+// Updated on 19-09-2026 by Melbin George
